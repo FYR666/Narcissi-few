@@ -10,4 +10,5 @@ int main()
 		if (b*b*b + c*c*c + d*d*d ==a)
 			printf("Ë®ÏÉ»¨Êı%d\n", a);
 		a++;}
+	return 0;
 }
